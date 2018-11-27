@@ -8,7 +8,9 @@ Live deployment on [Heroku](https://swiftbrew.herokuapp.com/home).
 
 #### App Functionality:
   Once you hit the home page, you can go to the Menu tab, or you can hit one of the categories (Coffee, Frappucino, Tea, or Bakery) to go the menu. Once you are on the menu, you can hit the tabs to navigate. Pick a size, if applicable, and then add to cart. If you go to the cart, which is the coffee sign in the top corner, you'll see your items have been added, and you can delete if you've added to many.
+  
   If you fill in the save your order bar and then hit checkout, then you will save your order to the Orders tab. In there, you will be able to add the order to your cart once again, for whenever you order coffee next. Otherwise, you may delete that order.
+  
   After checking out, you will be given a QR code. That code can be saved to your phone, or it will be persistent on that page, and you can show to the employee at the store. Then the employee will be able to hit pay with cash and calculate the amount of change necessary to finish the transaction, and clear the order from your cart.
   
 #### Known Issues:
