@@ -16,7 +16,7 @@ Live deployment on [Heroku](https://swiftbrew.herokuapp.com/home).
 #### Known Issues:
 - Sign up functionality works, but there is no capability to sign in. All current users are manually entered into the database.
 - As a result, the routes are not set up to work with the user id, therefore the cart is not users specific, and can only be used by one person at a time.
-- No to very minimal input validation. For instance, if you don't put a size on your coffee, it will not add to cart, but there is no error telling the user that.
+- None to very minimal input validation. For instance, if you don't put a size on your coffee, it will not add to cart, but there is no error telling the user that.
 - Needs updated CSS on the checkout page.
 - Needs updated media queries for mobile styling.
 - Imbedded QR scanner on the /checkout page is not functional.
